@@ -1,9 +1,9 @@
 {
   "name": "gatsby-london",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
+  "description": "Portfolio site for Alex Boynes",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
+  "author": "Alex Boynes <boynesalex@gmail.com>",
   "bugs": {
     "url": "https://github.com/ImedAdel/gatsby-london/issues"
   },
